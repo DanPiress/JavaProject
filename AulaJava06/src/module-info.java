@@ -1,0 +1,2 @@
+module AulaJava06 {
+}
